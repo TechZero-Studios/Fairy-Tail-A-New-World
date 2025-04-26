@@ -1,0 +1,17 @@
+{
+	#Blocks
+	"block.ftanw.adamantite_ore": "Adamantite Ore",
+	
+	#Items
+	"item.ftanw.adamantite_ore": "Adamantite Ore",
+	"item.ftanw.character_creation_item": "Character Creation",
+	
+	#Creative Tabs
+	"itemGroup.fairy_tail_misc": "Fairy Tail Misc",
+	"itemGroup.fairy_tail_weapons": "Fairy Tail Weapons",
+	"itemGroup.fairy_tail_blocks": "Fairy Tail Blocks",
+	
+	#Keybindings
+	"key.categories.ftanw": "Fairy Tail: A New World",
+	"key.stats": "STATS"
+}
